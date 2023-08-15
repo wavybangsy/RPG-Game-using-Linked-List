@@ -6,7 +6,7 @@ This project, written in C, is inspired from Roguelike Dungeon Crawler Game, sim
   1. Double click the MAINPROJECT.exe file inside the 'MAIN OUTPUT' folder.
 
   #### MACOS USER:
-  1. Compile the MAINPROJECT.c file:  clang MAINPROJECT.c -o MAINPROJECT inside the "MAIN OUTPUT" folder
+  1. Compile the MAINPROJECT.c file:  clang MAINPROJECT.c -o MAINPROJECT inside the 'MAIN OUTPUT' folder
   2. Run the program generated.
 
 
